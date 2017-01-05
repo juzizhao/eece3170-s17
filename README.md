@@ -1,7 +1,10 @@
 # eece3170-s17
 EECE.3170: Microprocessor Systems Design I
+
 Spring 2017
+
 Section 201: MWF 9-9:50 AM, KIT-305
+
 Section 202: MWF 10-10:50 AM, KIT-305
  
 Instructor: Dr. Juzi Zhao
